@@ -1,5 +1,5 @@
 # Programas
-Programas de cracking y hacking - aqí iré subiendo programas de este estilo
+Programas de cracking y hacking - aquí iré subiendo programas de este estilo
 
 Aquí os adjunto unos cuantas cosas:
 1. No me hago cargo del uso que le hagáis a las herramientas publicadas
